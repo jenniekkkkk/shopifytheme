@@ -3,13 +3,6 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
-          }
-        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -20,11 +13,18 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse our latest products",
+            "heading_size": "h0"
+          }
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "button",
+        "heading"
       ],
       "settings": {
         "image_overlay_opacity": 20,
