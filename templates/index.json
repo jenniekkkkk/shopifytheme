@@ -141,6 +141,16 @@
         "padding_bottom": 0
       }
     },
+    "5b1c3454-f1ad-4eb4-ab55-f3fff1509299": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "780c3219-a7d6-4e86-8dd8-2fd33e885d00": {
       "type": "featured-blog",
       "settings": {
@@ -163,6 +173,7 @@
     "image_banner",
     "featured_collection",
     "bf25535a-4ab6-4b56-b476-a21cff4fb7f4",
+    "5b1c3454-f1ad-4eb4-ab55-f3fff1509299",
     "780c3219-a7d6-4e86-8dd8-2fd33e885d00"
   ]
 }
